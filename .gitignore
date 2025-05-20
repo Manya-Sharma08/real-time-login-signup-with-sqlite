@@ -1,0 +1,4 @@
+venvfifth/ 
+__pycache__/ 
+*.pyc 
+.env 
